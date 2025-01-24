@@ -1,11 +1,12 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #4b69fd;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-text: #444444;
     --color-white: #FFFFFF;
+    --color-primary-hover: #3956e7;
 }
 
 /* Estilos generales */
@@ -153,10 +154,22 @@ ul {
     font-size: 16px;
 }
 
+.button-reiniciar {
+    margin-top: 1rem;
+    background-color: var(--color-primary);
+    height: 58.2px;
+    justify-content:center ;
+}
+
+
 .button-draw img {
     margin-right: 40px;
 }
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+.button-reiniciar:hover {
+    background-color: var(--color-primary-hover);
 }
