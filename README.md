@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/c1427c97-9163-481a-9085-170ee24c3307
 ---
 
 ## Acceso al Proyecto
-Puedes acceder al código fuente y clonar el repositorio desde [GitHub](https://github.com/AxelDesarrolloWeb/challenge-amigo-secreto/).
+Puedes acceder al código fuente y clonar el repositorio desde [GitHub](https://github.com/AxelDesarrolloWeb/challenge-amigo-secreto/tree/refactorizado).
 
 Para probar el proyecto localmente:
 
@@ -98,5 +98,6 @@ Para probar el proyecto localmente:
 ---
 
 ## Licencia
-Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](https://opensource.org/licenses/MIT) para más información.
+Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](license.txt](https://github.com/user-attachments/files/18542923/license.txt) para más información.
+
 
